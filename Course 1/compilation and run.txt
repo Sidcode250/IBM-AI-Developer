@@ -11,4 +11,16 @@ python = python3 filename.py
 javascript = node filename.js
 
 go = go run filename.go
-	
+
+ruby = ruby filename.rb
+
+php = php filename.php
+
+cpp = g++  -o hello filename.cpp
+      ./hello
+
+perl = perl filename.pl
+
+shell = sh filename.sh
+
+html = 
