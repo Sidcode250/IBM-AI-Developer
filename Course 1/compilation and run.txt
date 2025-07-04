@@ -1,0 +1,14 @@
+compilation and run
+
+c = gcc -o hello filename.c
+    ./hello
+
+java = javac filename.java
+       java filename
+
+python = python3 filename.py
+
+javascript = node filename.js
+
+go = go run filename.go
+	
